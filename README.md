@@ -1,9 +1,26 @@
-Hi 👋, I'm Shuhaib Akthar 
+<h3 align="center">👋 Hi there, I'm SHUHAIB AKTHAR</h3>
 
-A passionate full stack developer.
+<p align="center">
+  <a href="">Website</a> •
+  <a href="https://twitter.com/">Twitter</a> •
+  <a href="https://linkedin.com/in/shuhaibakthar">LinkedIn</a> •
+  <a href="https://github.com/CodeWithAkthar">GitHub</a>
+</p>
 
-I'm a self-taught full stack developer with expertise in the MERN stack. I have experience working on various projects, and I'm proficient in JavaScript, Node.js, React, MongoDB, and Git. I'm passionate about staying up-to-date with the latest trends in web development, and I enjoy learning new tools and technologies to enhance my skills. If you're looking for a dedicated and talented developer, feel free to browse my GitHub profile and reach out to me!
+---
 
-Languages and Tools
+Full Stack Developer with 1.5+ years of experience shipping production MERN applications used by 300+ users. Skilled in REST APIs, JWT auth, Redis, RabbitMQ, and React — with a track record of optimizing frontend performance to 95%+ page speed scores and leading 50+ student developers. Open to remote, hybrid, and onsite roles.
 
-AWS Bootstrap w3schools Expressjs Figma Git Linux MongoDB NodeJS PostMan ReactJS TypeScript JavaScript HTML CSS Express Ubuntu VS-Code Next js
+---
+
+- 🔭 Currently working as **Full Stack Developer** at **DevXtra Pvt Ltd**
+- 🌱 Learning: **Advanced cloud services and AI integration techniques**
+- 💬 Ask me about: **MERN stack development, optimizing web performance, RESTful API design**
+- 📍 Based in: **Malappuram, Kerala**
+- 📫 Reach me: [shuhaibakthar211@gmail.com](mailto:shuhaibakthar211@gmail.com)
+
+---
+
+### ✍️ I Write At
+
+### ☕ Support Me
