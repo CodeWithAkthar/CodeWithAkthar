@@ -26,7 +26,7 @@ Full Stack Developer with 1.5+ years of experience shipping production MERN appl
 **[Speeki](YOUR_REPO_URL)** — AI voice chat app
 Real-time speech-to-text → LLM response → text-to-speech pipeline built with OpenAI API and Azure Speech Services.
 Stack: React · Node.js · TypeScript · WebSockets
-→ [Live Demo](YOUR_DEMO_URL) · [Repo](YOUR_REPO_URL)
+→ [Live Demo](https://speeki-chat.trogon.info/) 
 
 ---
 
