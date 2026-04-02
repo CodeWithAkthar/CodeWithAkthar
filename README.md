@@ -41,8 +41,3 @@ Stack: React · Node.js · TypeScript · MongoDB · Express
 Product listings, cart, orders, payments, and JWT auth. Optimized to 95%+ page speed score.
 Stack: React · Node.js · MongoDB · Express · Redis · JWT
 → [Live Demo](YOUR_DEMO_URL) · [Repo](YOUR_REPO_URL)
-
-
-### ✍️ I Write At
-
-### ☕ Support Me
