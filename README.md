@@ -23,7 +23,7 @@ Full Stack Developer with 1.5+ years of experience shipping production MERN appl
 
 ## Projects
 
-**[Speeki](YOUR_REPO_URL)** — AI voice chat app
+**[Speeki](https://speeki-chat.trogon.info/)** — AI voice chat app
 
 Real-time speech-to-text → LLM response → text-to-speech pipeline built with OpenAI API and Azure Speech Services.
 Stack: React · Node.js · TypeScript · WebSockets
@@ -31,16 +31,16 @@ Stack: React · Node.js · TypeScript · WebSockets
 
 ---
 
-**[POS System](YOUR_REPO_URL)** — Point-of-sale platform · 
+**[POS System](https://github.com/CodeWithAkthar/MyPOS)** — Point-of-sale platform · 
 
 deployed for real businesses Inventory management, billing, and sales reporting. Currently in active use by real retail businesses.
 Stack: React · Node.js · TypeScript · MongoDB · Express
-→ [Repo]([YOUR_REPO_URL](https://github.com/CodeWithAkthar/MyPOS))
+→ [Repo](https://github.com/CodeWithAkthar/MyPOS)
 
 ---
 
-**[Healix](YOUR_REPO_URL)** — Full-stack e-commerce platform · 300+ users
+**[Healix](https://github.com/CodeWithAkthar/Healix)** — Full-stack e-commerce platform · 300+ users
 
 Product listings, cart, orders, payments, and JWT auth. Optimized to 95%+ page speed score.
 Stack: React · Node.js · MongoDB · Express · Redis · JWT
-→ [Live Demo](YOUR_DEMO_URL) · [Repo](YOUR_REPO_URL)
+→ [Live Demo](YOUR_DEMO_URL) · [Repo](https://github.com/CodeWithAkthar/Healix)
