@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, I'm Shuhaib Akthar.</h3>
 
 <p align="center">
-  <a href="">Website</a> •
+  <a href="https://shuhaib-akthar.vercel.app/">Website</a> •
   <a href="https://twitter.com/">Twitter</a> •
   <a href="https://linkedin.com/in/shuhaibakthar">LinkedIn</a> •
   <a href="https://github.com/CodeWithAkthar">GitHub</a>
